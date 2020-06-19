@@ -1,2 +1,2 @@
 # tbot.xyz-math-
-A script to score the best at Telegram's gamebot battles
+Script to score the best at Telegram's gamebot battles
